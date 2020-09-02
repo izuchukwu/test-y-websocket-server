@@ -1,3 +1,7 @@
+# Build Artifacts
+build
+dist
+
 # Logs
 logs
 *.log

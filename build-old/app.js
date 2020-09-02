@@ -1,5 +1,5 @@
 import WebSocket from 'ws';
-import * as http from 'http';
+import http from 'http';
 import { initWebSocketConnection } from './utils.js';
 const port = process.env.PORT || 5000;
 // Create WebSocket server and Node server
