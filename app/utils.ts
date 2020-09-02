@@ -1,5 +1,7 @@
 import Y from 'yjs'
+// @ts-ignore
 import syncProtocol from 'y-protocols/dist/sync.cjs'
+// @ts-ignore
 import awarenessProtocol from 'y-protocols/dist/awareness.cjs'
 import WebSocket from 'ws'
 import * as http from 'http'
